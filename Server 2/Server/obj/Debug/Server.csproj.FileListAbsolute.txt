@@ -1,0 +1,18 @@
+c:\users\onex\documents\visual studio 2013\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\onex\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\onex\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.Form1.resources
+c:\users\onex\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\onex\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\onex\documents\visual studio 2013\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\onex\documents\visual studio 2013\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\onex\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\onex\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.pdb
+C:\2\Server 2\Server\bin\Debug\Server.exe.config
+C:\2\Server 2\Server\obj\Debug\Server.exe
+C:\2\Server 2\Server\obj\Debug\Server.pdb
+C:\2\Server 2\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\2\Server 2\Server\obj\Debug\Server.Form1.resources
+C:\2\Server 2\Server\obj\Debug\Server.Properties.Resources.resources
+C:\2\Server 2\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\2\Server 2\Server\bin\Debug\Server.exe
+C:\2\Server 2\Server\bin\Debug\Server.pdb
