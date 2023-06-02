@@ -1,0 +1,27 @@
+c:\users\onex\documents\visual studio 2013\Projects\Network\Network\bin\Debug\Network.exe.config
+c:\users\onex\documents\visual studio 2013\Projects\Network\Network\bin\Debug\Network.exe
+c:\users\onex\documents\visual studio 2013\Projects\Network\Network\bin\Debug\Network.pdb
+c:\users\onex\documents\visual studio 2013\Projects\Network\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
+c:\users\onex\documents\visual studio 2013\Projects\Network\Network\obj\Debug\Network.Form1.resources
+c:\users\onex\documents\visual studio 2013\Projects\Network\Network\obj\Debug\Network.Properties.Resources.resources
+c:\users\onex\documents\visual studio 2013\Projects\Network\Network\obj\Debug\Network.csproj.GenerateResource.Cache
+c:\users\onex\documents\visual studio 2013\Projects\Network\Network\obj\Debug\Network.exe
+c:\users\onex\documents\visual studio 2013\Projects\Network\Network\obj\Debug\Network.pdb
+F:\AIU\SP-Lab\2\Network 2\Network\bin\Debug\Network.exe.config
+F:\AIU\SP-Lab\2\Network 2\Network\obj\Debug\Network.exe
+F:\AIU\SP-Lab\2\Network 2\Network\obj\Debug\Network.pdb
+F:\AIU\SP-Lab\2\Network 2\Network\bin\Debug\Network.exe
+F:\AIU\SP-Lab\2\Network 2\Network\bin\Debug\Network.pdb
+F:\AIU\SP-Lab\2\Network 2\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
+F:\AIU\SP-Lab\2\Network 2\Network\obj\Debug\Network.Form1.resources
+F:\AIU\SP-Lab\2\Network 2\Network\obj\Debug\Network.Properties.Resources.resources
+F:\AIU\SP-Lab\2\Network 2\Network\obj\Debug\Network.csproj.GenerateResource.Cache
+C:\2\Network 2\Network\bin\Debug\Network.exe.config
+C:\2\Network 2\Network\obj\Debug\Network.exe
+C:\2\Network 2\Network\obj\Debug\Network.pdb
+C:\2\Network 2\Network\bin\Debug\Network.exe
+C:\2\Network 2\Network\bin\Debug\Network.pdb
+C:\2\Network 2\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
+C:\2\Network 2\Network\obj\Debug\Network.Form1.resources
+C:\2\Network 2\Network\obj\Debug\Network.Properties.Resources.resources
+C:\2\Network 2\Network\obj\Debug\Network.csproj.GenerateResource.Cache
