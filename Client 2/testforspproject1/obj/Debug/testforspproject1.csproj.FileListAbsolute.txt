@@ -1,0 +1,49 @@
+c:\users\user\documents\visual studio 2015\Projects\testforspproject1\testforspproject1\bin\Debug\testforspproject1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\testforspproject1\testforspproject1\bin\Debug\testforspproject1.exe
+c:\users\user\documents\visual studio 2015\Projects\testforspproject1\testforspproject1\bin\Debug\testforspproject1.pdb
+c:\users\user\documents\visual studio 2015\Projects\testforspproject1\testforspproject1\obj\Debug\testforspproject1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\testforspproject1\testforspproject1\obj\Debug\testforspproject1.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\testforspproject1\testforspproject1\obj\Debug\testforspproject1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\testforspproject1\testforspproject1\obj\Debug\testforspproject1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\testforspproject1\testforspproject1\obj\Debug\testforspproject1.exe
+c:\users\user\documents\visual studio 2015\Projects\testforspproject1\testforspproject1\obj\Debug\testforspproject1.pdb
+G:\ \SSSp\testforspproject1\testforspproject1\bin\Debug\testforspproject1.exe.config
+G:\ \SSSp\testforspproject1\testforspproject1\obj\Debug\testforspproject1.exe
+G:\ \SSSp\testforspproject1\testforspproject1\obj\Debug\testforspproject1.pdb
+G:\ \SSSp\testforspproject1\testforspproject1\bin\Debug\testforspproject1.exe
+G:\ \SSSp\testforspproject1\testforspproject1\bin\Debug\testforspproject1.pdb
+G:\ \SSSp\testforspproject1\testforspproject1\obj\Debug\testforspproject1.csprojResolveAssemblyReference.cache
+G:\ \SSSp\testforspproject1\testforspproject1\obj\Debug\testforspproject1.Form1.resources
+G:\ \SSSp\testforspproject1\testforspproject1\obj\Debug\testforspproject1.Properties.Resources.resources
+G:\ \SSSp\testforspproject1\testforspproject1\obj\Debug\testforspproject1.csproj.GenerateResource.Cache
+F:\AIU\SP-Lab\testforspproject1\testforspproject1\bin\Debug\testforspproject1.exe.config
+F:\AIU\SP-Lab\testforspproject1\testforspproject1\obj\Debug\testforspproject1.exe
+F:\AIU\SP-Lab\testforspproject1\testforspproject1\obj\Debug\testforspproject1.pdb
+F:\AIU\SP-Lab\testforspproject1\testforspproject1\bin\Debug\testforspproject1.exe
+F:\AIU\SP-Lab\testforspproject1\testforspproject1\bin\Debug\testforspproject1.pdb
+F:\AIU\SP-Lab\testforspproject1\testforspproject1\obj\Debug\testforspproject1.csprojResolveAssemblyReference.cache
+F:\AIU\SP-Lab\testforspproject1\testforspproject1\obj\Debug\testforspproject1.Form1.resources
+F:\AIU\SP-Lab\testforspproject1\testforspproject1\obj\Debug\testforspproject1.Properties.Resources.resources
+F:\AIU\SP-Lab\testforspproject1\testforspproject1\obj\Debug\testforspproject1.csproj.GenerateResource.Cache
+F:\AIU\SP-Lab\testforspproject1\testforspproject1\obj\Debug\testforspproject1.Form2.resources
+F:\AIU\SP-Lab\testforspproject1\testforspproject1\bin\Debug\testforspproject1.exe.manifest
+F:\AIU\SP-Lab\testforspproject1\testforspproject1\bin\Debug\testforspproject1.application
+F:\AIU\SP-Lab\testforspproject1\testforspproject1\obj\Debug\testforspproject1.exe.manifest
+F:\AIU\SP-Lab\testforspproject1\testforspproject1\obj\Debug\testforspproject1.application
+F:\AIU\SP-Lab\2\Client 2\testforspproject1\bin\Debug\testforspproject1.exe.config
+F:\AIU\SP-Lab\2\Client 2\testforspproject1\obj\Debug\testforspproject1.exe
+F:\AIU\SP-Lab\2\Client 2\testforspproject1\obj\Debug\testforspproject1.pdb
+C:\2\Client 2\testforspproject1\bin\Debug\testforspproject1.exe.config
+C:\2\Client 2\testforspproject1\obj\Debug\testforspproject1.exe
+C:\2\Client 2\testforspproject1\obj\Debug\testforspproject1.pdb
+C:\2\Client 2\testforspproject1\bin\Debug\testforspproject1.exe.manifest
+C:\2\Client 2\testforspproject1\bin\Debug\testforspproject1.application
+C:\2\Client 2\testforspproject1\bin\Debug\testforspproject1.exe
+C:\2\Client 2\testforspproject1\bin\Debug\testforspproject1.pdb
+C:\2\Client 2\testforspproject1\obj\Debug\testforspproject1.csprojResolveAssemblyReference.cache
+C:\2\Client 2\testforspproject1\obj\Debug\testforspproject1.Form1.resources
+C:\2\Client 2\testforspproject1\obj\Debug\testforspproject1.Form2.resources
+C:\2\Client 2\testforspproject1\obj\Debug\testforspproject1.Properties.Resources.resources
+C:\2\Client 2\testforspproject1\obj\Debug\testforspproject1.csproj.GenerateResource.Cache
+C:\2\Client 2\testforspproject1\obj\Debug\testforspproject1.exe.manifest
+C:\2\Client 2\testforspproject1\obj\Debug\testforspproject1.application
